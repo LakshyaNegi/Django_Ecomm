@@ -1,2 +1,2 @@
 # Django_Ecomm
-Ecommerce app using djange
+Ecommerce app using django
